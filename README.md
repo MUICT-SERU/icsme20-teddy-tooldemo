@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Teddy: Automatic Recommendation For Pythonic Idiom Usage
 
-You can use the [editor on GitHub](https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Purit Phan-udom*, Naruedon Wattanakul*,Tattiya Sakulniwat∗, Chaiyong Ragkhitwetsagul∗, Thanwadee Sunetnanta∗, Morakot Choetkiertikul∗,   Raula Gaikovina Kula†
 
-### Markdown
+*Faculty of Information and Communication Technology (ICT), Mahidol University
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+†Nara Institute of Science and Technology (NAIST)
 
-```markdown
-Syntax highlighted code block
+Email: purit.pha,naruedonw,tattiya.sakul}@gmail.com,{chaiyong.rag, thanwadee.sun, morakot.cho}@mahidol.ac.th,raula-k@is.naist.jp
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+From intro is from iwesep2019 page. not modified yet
+## Introduction
 
-1. Numbered
-2. List
+### Pythonic Idioms
 
-**Bold** and _Italic_ and `Code` text
+Pythonic is defined in python.org glossary part as the code which closely follows the most common idioms of the Python language.
+Idioms, generally, defined as a phrase that have particular meaning that cannot be directly translate from each word.
+Put them together, Pythonic Idiom is is the way to write a set of code to execute particular function by following the principle of Python language.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The idiomatic way of writing code would help on increase efficiency of the code as following figure:
 
-### Jekyll Themes
+![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/Compare.png?raw=true)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Why Python?
+
+- Python  programming  language  ranks  in  the  top  three  most  used  by programmers due to [rank by GitHub](https://octoverse.github.com/projects#languages)
+- Stack Overflow predicts that it will be the most used in 2020.
+- The most active repository on GitHub is “TensorFlow” and it uses Python.
+
