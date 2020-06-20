@@ -11,24 +11,24 @@ Email: purit.pha,naruedonw,tattiya.sakul}@gmail.com,{chaiyong.rag, thanwadee.sun
 
 
 From intro is from iwesep2019 page. not modified yet
-## Introduction
 
-### Pythonic Idioms
+## About Idiomatic Python
 
-Pythonic is defined in python.org glossary part as the code which closely follows the most common idioms of the Python language.
-Idioms, generally, defined as a phrase that have particular meaning that cannot be directly translate from each word.
-Put them together, Pythonic Idiom is is the way to write a set of code to execute particular function by following the principle of Python language.
+diomatic Python (IP) - Python code written to execute particular function by following the principles of Python language that are well-accepted in the community
+
+Non-idiomatic Python (NIP) - Python code to perform a specific function that is syntactically correct but do not follow the idiomatic way of writing.
 
 
 The idiomatic way of writing code would help on increase efficiency of the code as following figure:
 
 ![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/Compare.png?raw=true)
 
+## Evaluation Data Set
+
+The data set is used to evaluate the configuration of Siamese. The access to the file is in the link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/evaluation
+
+## Detection Mode Results
 
 
-### Why Python?
 
-- Python  programming  language  ranks  in  the  top  three  most  used  by programmers due to [rank by GitHub](https://octoverse.github.com/projects#languages)
-- Stack Overflow predicts that it will be the most used in 2020.
-- The most active repository on GitHub is “TensorFlow” and it uses Python.
 
