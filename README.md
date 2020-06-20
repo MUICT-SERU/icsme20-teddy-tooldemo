@@ -29,6 +29,16 @@ The data set is used to evaluate the configuration of Siamese. The access to the
 
 ## Detection Mode Results
 
+### Project:flask (https://github.com/pallets/flask)
 
+![figure2](https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/figure/flask.jpg?raw=true)
+
+### Project: ipython/ipyparallel (https://github.com/ipython/ipyparallel)
+
+![figure3](https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/figure/ipy.jpg?raw=true)
+
+### Project: tensorflow/tfx  (https://github.com/tensorflow/tfx)
+
+![figure4](https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/figure/tfx.jpg?raw=true)
 
 
