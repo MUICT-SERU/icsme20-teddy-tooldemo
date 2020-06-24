@@ -17,7 +17,7 @@ From intro is from iwesep2019 page. not modified yet
 Pythonic code is idiomatic code that follows guiding principles and practices within the Python community.
 Offering performance and readability benefits, Pythonic code is claimed to be widely adopted by experienced Python developers, but can be a learning curve to novice programmers. 
 To aid with Pythonic learning, we create an automated tool, called Teddy, that can help checking the Pythonic idiom usage.
-The tool offers a \textit{prevention mode} with Just-In-Time analysis to recommend the use of Pythonic idiom during code review and a \textit{detection mode} with historical analysis to run a thorough scan of idiomatic and non-idiomatic code.
+The tool offers a prevention mode with Just-In-Time analysis to recommend the use of Pythonic idiom during code review and a detection mode with historical analysis to run a thorough scan of idiomatic and non-idiomatic code.
 In this paper, we first describe our tool and an evaluation of its performance.
 Furthermore, we present a case study that demonstrates how to use Teddy in a real-life scenario on an Open Source project.
 An evaluation shows that Teddy has high precision for detecting Pythonic idiom and non-Pythonic code. 
@@ -25,22 +25,18 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 
 <figure><iframe width="560" height="315" src="https://www.youtube.com/embed/tmmsqCOxUic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
-## Evaluation Data Set
+## Pythonic and Non-pythonic Idiom Database
+The dabase can be accessed via this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/python-idioms
+Ground truth data that are used to evaluate the configuration of Siamese are in this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/evaluation
 
-The data set is used to evaluate the configuration of Siamese. The access to the file is in the link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/evaluation
+## Case Study on Project Flask (https://github.com/pallets/flask)
 
-## Detection Mode Results
+### Prevention Mode
+https://github.com/MUICT-SERU/flask/pull/1
+### Detection Mode
+https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/flask.html
 
-### Project:flask (https://github.com/pallets/flask)
-
-![figure2](https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/figure/flask.jpg?raw=true)
-
-### Project: ipython/ipyparallel (https://github.com/ipython/ipyparallel)
-
-![figure3](https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/figure/ipy.jpg?raw=true)
-
-### Project: tensorflow/tfx  (https://github.com/tensorflow/tfx)
-
-![figure4](https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/figure/tfx.jpg?raw=true)
+## More Details
+The full detail of the project is in this GitHub repository: https://github.com/MUICT-SERU/SP2019-08-TEDDY
 
 
