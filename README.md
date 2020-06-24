@@ -12,16 +12,18 @@ Email: purit.pha,naruedonw,tattiya.sakul}@gmail.com,{chaiyong.rag, thanwadee.sun
 
 From intro is from iwesep2019 page. not modified yet
 
-## About Idiomatic Python
+## Introduction
 
-diomatic Python (IP) - Python code written to execute particular function by following the principles of Python language that are well-accepted in the community
+Pythonic code is idiomatic code that follows guiding principles and practices within the Python community.
+Offering performance and readability benefits, Pythonic code is claimed to be widely adopted by experienced Python developers, but can be a learning curve to novice programmers. 
+To aid with Pythonic learning, we create an automated tool, called Teddy, that can help checking the Pythonic idiom usage.
+The tool offers a \textit{prevention mode} with Just-In-Time analysis to recommend the use of Pythonic idiom during code review and a \textit{detection mode} with historical analysis to run a thorough scan of idiomatic and non-idiomatic code.
+In this paper, we first describe our tool and an evaluation of its performance.
+Furthermore, we present a case study that demonstrates how to use Teddy in a real-life scenario on an Open Source project.
+An evaluation shows that Teddy has high precision for detecting Pythonic idiom and non-Pythonic code. 
+Using interactive visualizations, we demonstrate how novice programmers can navigate and identify Pythonic idiom and non-Pythonic code in their projects. 
 
-Non-idiomatic Python (NIP) - Python code to perform a specific function that is syntactically correct but do not follow the idiomatic way of writing.
-
-
-The idiomatic way of writing code would help on increase efficiency of the code as following figure:
-
-![figure1](https://github.com/MUICT-SERU/iwesep19-idioms/blob/master/figure/Compare.png?raw=true)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tmmsqCOxUic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Evaluation Data Set
 
