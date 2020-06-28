@@ -9,9 +9,6 @@ Purit Phan-udom*, Naruedon Wattanakul*,Tattiya Sakulniwat∗, Chaiyong Ragkhitwe
 
 Email: purit.pha,naruedonw,tattiya.sakul}@gmail.com,{chaiyong.rag, thanwadee.sun, morakot.cho}@mahidol.ac.th,raula-k@is.naist.jp
 
-
-From intro is from iwesep2019 page. not modified yet
-
 ## Introduction
 
 Pythonic code is idiomatic code that follows guiding principles and practices within the Python community.
