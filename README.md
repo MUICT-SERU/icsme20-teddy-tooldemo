@@ -1,7 +1,7 @@
 # Teddy: Automatic Recommendation For Pythonic Idiom Usage
 
 
-[Purit Phan-udom](purit.pha@gmail.com), [Naruedon Wattanakul](naruedonw@gmail.com), [Tattiya Sakulniwat](tattiya.sakul@gmail.com), [Chaiyong Ragkhitwetsagul∗](https://cragkhit.github.io/), [Thanwadee Sunetnanta∗](http://mucc.mahidol.ac.th/~ittth/), [Morakot Choetkiertikul∗](https://morakot-ch.com/), [Faculty of Information and Communication Technology (ICT), Mahidol University](https://www.ict.mahidol.ac.th/)
+[Purit Phan-udom](mailto:purit.pha@gmail.com), [Naruedon Wattanakul](mailto:naruedonw@gmail.com), [Tattiya Sakulniwat](mailto:tattiya.sakul@gmail.com), [Chaiyong Ragkhitwetsagul∗](https://cragkhit.github.io/), [Thanwadee Sunetnanta∗](http://mucc.mahidol.ac.th/~ittth/), [Morakot Choetkiertikul∗](https://morakot-ch.com/), [Faculty of Information and Communication Technology (ICT), Mahidol University](https://www.ict.mahidol.ac.th/)
 
 [Raula Gaikovina Kula](https://raux.github.io/), [Nara Institute of Science and Technology (NAIST)](https://naist-se.github.io/)
 
