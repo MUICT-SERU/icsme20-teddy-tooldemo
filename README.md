@@ -1,13 +1,9 @@
 # Teddy: Automatic Recommendation For Pythonic Idiom Usage
 
 
-Purit Phan-udom*, Naruedon Wattanakul*,Tattiya Sakulniwat∗, Chaiyong Ragkhitwetsagul∗, Thanwadee Sunetnanta∗, Morakot Choetkiertikul∗,   Raula Gaikovina Kula†
+[Purit Phan-udom](purit.pha@gmail.com), [Naruedon Wattanakul](naruedonw@gmail.com), [Tattiya Sakulniwat](tattiya.sakul@gmail.com), [Chaiyong Ragkhitwetsagul∗](https://cragkhit.github.io/), [Thanwadee Sunetnanta∗](http://mucc.mahidol.ac.th/~ittth/), [Morakot Choetkiertikul∗](https://morakot-ch.com/), [Faculty of Information and Communication Technology (ICT), Mahidol University](https://www.ict.mahidol.ac.th/)
 
-*Faculty of Information and Communication Technology (ICT), Mahidol University
-
-†Nara Institute of Science and Technology (NAIST)
-
-Email: purit.pha,naruedonw,tattiya.sakul}@gmail.com,{chaiyong.rag, thanwadee.sun, morakot.cho}@mahidol.ac.th,raula-k@is.naist.jp
+[Raula Gaikovina Kula](https://raux.github.io/), [Nara Institute of Science and Technology (NAIST)](https://naist-se.github.io/)
 
 ## Introduction
 
@@ -20,7 +16,7 @@ Furthermore, we present a case study that demonstrates how to use Teddy in a rea
 An evaluation shows that Teddy has high precision for detecting Pythonic idiom and non-Pythonic code. 
 Using interactive visualizations, we demonstrate how novice programmers can navigate and identify Pythonic idiom and non-Pythonic code in their projects. 
 
-<figure><iframe width="560" height="315" src="https://www.youtube.com/embed/tmmsqCOxUic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+<figure><iframe width="600" height="315" src="https://www.youtube.com/embed/tmmsqCOxUic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
 ## Pythonic and Non-pythonic Idiom Database
 ### Pythonic Database Set
