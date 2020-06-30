@@ -46,7 +46,7 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 | Non-Pythonic string formatting | Sequence of one string formatting commands per one line, using '+' to concatenate static string and variable(s) together, or using '%' as string variable placeholder |
 | Non-Pythonic code formatting | Using ';' to put more than one statement in a single line |
 
-The actual database source codes can be accessed via this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/python-idioms
+The full database source codes can be accessed via this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/python-idioms
 
 Ground truth data that are used to evaluate the configuration of Siamese are in this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/evaluation
 
