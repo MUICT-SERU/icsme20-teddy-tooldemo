@@ -20,10 +20,18 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 
 ## Pythonic and Non-pythonic Idiom Database
 ### Pythonic Database Set
-|              Type              | Code snippets                                                                                                                                                  |
-|:------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pythonic<br>dict comprehension | def i1():<br>&nbsp;&nbsp;&nbsp;&nbsp;emails = {user.name: user.email for user in users if user.email}<br><br>def i2():<br>&nbsp;&nbsp;&nbsp;&nbsp;dict_compr = {k: k*\*2 for k in range(10000)}<br><br>def i3():<br>&nbsp;&nbsp;&nbsp;&nbsp;new_dict_comp = {n: n*\*2 for n in numbers if n%2 == 0}<br><br>def i4():<br>&nbsp;&nbsp;&nbsp;&nbsp;dict1 = {'a': 1, 'b': 2, 'c': 3, 'd': 4, 'e': 5, 'f':6}<br>&nbsp;&nbsp;&nbsp;&nbsp;dict1_tripleCond = {k:v for (k,v) in dict1.items() if v>2 if v%2 == 0 if v%3 == 0}<br>&nbsp;&nbsp;&nbsp;&nbsp;print(dict1_tripleCond)<br><br>def i5():<br>&nbsp;&nbsp;&nbsp;&nbsp;nested_dict = {'first':{'a':1}, 'second':<br>&nbsp;&nbsp;&nbsp;&nbsp;{'b':2}}float_dict = {outer_k: {float(inner_v) for (inner_k, inner_v) in outer_v.items()} for (outer_k, outer_v) in nested_dict.items()}<br>&nbsp;&nbsp;&nbsp;&nbsp;print(float_dict)<br><br>def i6():<br>&nbsp;&nbsp;&nbsp;&nbsp;fahrenheit = {'t1': -30,'t2': -20,'t3': -10,'t4': 0}<br>&nbsp;&nbsp;&nbsp;&nbsp;celsius = {k:(float(5)/9)\*(v-32) for (k,v) in fahrenheit.items()}<br>&nbsp;&nbsp;&nbsp;&nbsp;print(celsius_dict)<br><br>def i7():<br>&nbsp;&nbsp;&nbsp;&nbsp;mcase = {'a':10, 'b': 34, 'A': 7, 'Z':3}<br>&nbsp;&nbsp;&nbsp;&nbsp;mcase_frequency = { k.lower() : mcase.get(k.lower(), 0) + mcase.get(k.upper(), 0) for k in mcase.keys() } |
-| Pythonic<br>enumerate          | def i8():<br>for i, x in enumerate(l):<br>        # ...                                                                                    |
+|              Type              | Description                                              |
+|--------------------------------|----------------------------------------------------------|
+| Pythonic dict comprehension | Declaration of `dict` variable and assignment of its elements in a single statement |
+| Pythonic list comprehension | Declaration of `list` variable and assignment of its elements in a single statement |
+| Pythonic enumerate | For-loop iteration using `enumerate` function |
+| Pythonic if statement | Using implicit truthfulness for `if` conditional statement |
+| Pythonic file reading statement | Using `with open() ... as` to open a file |
+| Pythonic set | Using `set` variable type to create a unique collection |
+| Pythonic tuple | Unpacking data for multiple assignment at once |
+| Pythonic variable swapping | Using tuple to swap values between two or more variables |
+| Pythonic string formatting | Concatenation of multiple string formatting statements, use of `.format()` with placeholder(s) in a static string |
+| Pythonic code formatting | Proper use of indentation for code blocks and writing one statement per one line |
 
 The actual database source codes can be accessed via this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/python-idioms
 
