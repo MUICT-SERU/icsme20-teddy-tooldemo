@@ -52,6 +52,11 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 
 The full database source codes can be accessed via this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/python-idioms
 
+|      go      |      so      |
+|:------------:|:------------:|
+| sssasdafasdf | aasdfasdfasf |
+| fff          | bde          |
+
 Ground truth data that are used to evaluate the configuration of Siamese are in this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/evaluation
 
 ## Case Study on Project Flask (https://github.com/pallets/flask)
