@@ -32,7 +32,7 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 | Pythonic variable swapping | Using tuple to swap values between two or more variables |
 | Pythonic string formatting | Concatenation of multiple string formatting statements, use of `.format()` with placeholder(s) in a static string |
 | Pythonic code formatting | Proper use of indentation for code blocks and writing one statement per one line |
-### Non-pythonic Database Set
+### Non-Pythonic Database Set
 |              Type              | Description                                              |
 |--------------------------------|----------------------------------------------------------|
 | Non-Pythonic dict comprehension | Separate declaration and for-loop element assignment of a `dict` variable |
