@@ -49,10 +49,7 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 The full database source codes can be accessed via this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/python-idioms
 
 Ground truth data that are used to evaluate the configuration of Siamese are in this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/evaluation
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 ## Case Study on Project Flask (https://github.com/pallets/flask)
 
 ### Prevention Mode
