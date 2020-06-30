@@ -22,7 +22,7 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 ### Pythonic Database Set
 
 |              Type              | Description                                              |
-|--------------------------------|----------------------------------------------------------|
+|:--------------------------------:|:----------------------------------------------------------:|
 | Pythonic dict comprehension | Declaration of `dict` variable and assignment of its elements in a single statement |
 | Pythonic list comprehension | Declaration of `list` variable and assignment of its elements in a single statement |
 | Pythonic enumerate | For-loop iteration using `enumerate` function |
@@ -37,7 +37,7 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 ### Non-Pythonic Database Set
 
 |              Type              | Description                                              |
-|--------------------------------|----------------------------------------------------------|
+|:--------------------------------:|:----------------------------------------------------------:|
 | Non-Pythonic dict comprehension | Separate declaration and for-loop element assignment of a `dict` variable |
 | Non-Pythonic list comprehension | Separate declaration and for-loop element assignment of a `list` variable |
 | Non-Pythonic enumerate | for-loop iteration without the use of `enumerate` |
@@ -51,12 +51,7 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 
 
 The full database source codes can be accessed via this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/python-idioms
-<table align="center">
-  <tr><th align="center">Header A</th><th align="center">Header B</th><th align="center">Header C</th></tr>
-  <tr><td>Content a1</td><td>Content b1</td><td>Content c1</td></tr>
-  <tr><td>Content a2</td><td>Content b2</td><td>Content c2</td></tr>
-  <tr><td>Content a3</td><td>Content b3</td><td>Content c3</td></tr>
-</table>
+
 Ground truth data that are used to evaluate the configuration of Siamese are in this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/evaluation
 
 ## Case Study on Project Flask (https://github.com/pallets/flask)
