@@ -34,6 +34,7 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 | Pythonic code formatting | Proper use of indentation for code blocks and writing one statement per one line |
 ### Non-Pythonic Database Set
 |              Type              | Description                                              |
+|--------------------------------|----------------------------------------------------------|
 | Non-Pythonic dict comprehension | Separate declaration and for-loop element assignment of a `dict` variable |
 | Non-Pythonic list comprehension | Separate declaration and for-loop element assignment of a `list` variable |
 | Non-Pythonic enumerate | for-loop iteration without the use of `enumerate` |
