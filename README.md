@@ -20,6 +20,7 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 
 ## Pythonic and Non-pythonic Idiom Database
 ### Pythonic Database Set
+
 |              Type              | Description                                              |
 |--------------------------------|----------------------------------------------------------|
 | Pythonic dict comprehension | Declaration of `dict` variable and assignment of its elements in a single statement |
@@ -32,7 +33,9 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 | Pythonic variable swapping | Using tuple to swap values between two or more variables |
 | Pythonic string formatting | Concatenation of multiple string formatting statements, use of `.format()` with placeholder(s) in a static string |
 | Pythonic code formatting | Proper use of indentation for code blocks and writing one statement per one line |
+
 ### Non-Pythonic Database Set
+
 |              Type              | Description                                              |
 |--------------------------------|----------------------------------------------------------|
 | Non-Pythonic dict comprehension | Separate declaration and for-loop element assignment of a `dict` variable |
@@ -45,6 +48,7 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 | Non-Pythonic variable swapping | Using a `temp` variable to swap values of two variables |
 | Non-Pythonic string formatting | Sequence of one string formatting commands per one line, using '+' to concatenate static string and variable(s) together, or using '%' as string variable placeholder |
 | Non-Pythonic code formatting | Using ';' to put more than one statement in a single line |
+
 
 The full database source codes can be accessed via this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/python-idioms
 <table align="center">
