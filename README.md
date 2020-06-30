@@ -50,9 +50,9 @@ Using interactive visualizations, we demonstrate how novice programmers can navi
 | Non-Pythonic code formatting | Using ';' to put more than one statement in a single line |
 
 
-The full database source codes can be accessed via this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/python-idioms
+The full database source codes can be accessed via this [link](https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/python-idioms)
 
-Ground truth data that are used to evaluate the configuration of Siamese are in this link: https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/evaluation
+Ground truth data that are used to evaluate the configuration of Siamese are in this [link](https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/evaluation)
 
 ## Case Study on Project Flask (https://github.com/pallets/flask)
 
@@ -62,6 +62,6 @@ https://github.com/MUICT-SERU/flask/pull/1
 https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/flask.html
 
 ## More Details
-The full detail of the project is in this GitHub repository: https://github.com/MUICT-SERU/SP2019-08-TEDDY
+The full detail of the project is in this [GitHub repository](https://github.com/MUICT-SERU/SP2019-08-TEDDY)
 
 
