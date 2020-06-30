@@ -54,12 +54,12 @@ The full database source codes can be accessed via this [link](https://github.co
 
 Ground truth data that are used to evaluate the configuration of Siamese are in this [link](https://github.com/MUICT-SERU/SP2019-08-TEDDY/tree/master/evaluation)
 
-## Case Study on Project Flask (https://github.com/pallets/flask)
+## Case Study on Project [Flask](https://github.com/pallets/flask)
 
 ### Prevention Mode
-https://github.com/MUICT-SERU/flask/pull/1
+[https://github.com/MUICT-SERU/flask/pull/1](github.com/MUICT-SERU/flask/pull/1)
 ### Detection Mode
-https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/flask.html
+[https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/flask.html](github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/flask.html)
 
 ## More Details
 The full detail of the project is in this [GitHub repository](https://github.com/MUICT-SERU/SP2019-08-TEDDY)
