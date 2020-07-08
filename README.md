@@ -59,7 +59,7 @@ Ground truth data that are used to evaluate the configuration of Siamese are in 
 ### Prevention Mode
 [github.com/MUICT-SERU/flask/pull/1](https://github.com/MUICT-SERU/flask/pull/1)
 ### Detection Mode
-[github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/flask.html](https://github.com/MUICT-SERU/icsme20-teddy-tooldemo/blob/master/flask.html)
+[https://muict-seru.github.io/icsme20-teddy-tooldemo/flask.html](https://muict-seru.github.io/icsme20-teddy-tooldemo/flask.html)
 
 ## More Details
 The full detail of the project is in this [GitHub repository](https://github.com/MUICT-SERU/SP2019-08-TEDDY).
