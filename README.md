@@ -16,7 +16,7 @@ Furthermore, we present a case study that demonstrates how to use Teddy in a rea
 An evaluation shows that Teddy has high precision for detecting Pythonic idiom and non-Pythonic code. 
 Using interactive visualizations, we demonstrate how novice programmers can navigate and identify Pythonic idiom and non-Pythonic code in their projects. 
 
-<figure><iframe width="600" height="315" src="https://youtu.be/vOCQReSvBxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
+<figure><iframe width="600" height="315" src="https://www.youtube.com/embed/vOCQReSvBxA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></figure>
 
 ## Pythonic and Non-Pythonic Idiom Database
 ### Pythonic Database Set
